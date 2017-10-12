@@ -1,5 +1,5 @@
 /*Implementation of Mp3finder*/
-/*Author:- Hitesh Langer*/
+/*Author:- Tejasaw Verma*/
 
 #include<iostream>
 #include<dirent.h>     // Use for working with Directory Function
